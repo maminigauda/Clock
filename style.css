@@ -1,0 +1,41 @@
+*{
+	left: 0px;
+	top: 0px;
+	
+}
+.mdiv{
+	top: 0px;
+	left: 0px;
+	height: 100vh;
+	width: 100%;
+	display: flex;
+/*	align-items: center;*/
+	justify-content: center;
+/*	background-color: black;*/
+	background-image: url("https://gifdb.com/images/high/aesthetic-background-498-x-289-gif-i13h9hg0efgknm77.gif");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 10px;
+
+
+}
+.component{
+	height: 115px;
+	width: 130px;
+/*	padding: 40px;*/
+	box-shadow: 0px 0px 20px transparent;
+	padding: 10px;
+	background: transparent;
+	backdrop-filter: blur(60px);
+/*	margin-top: 50px;*/
+padding-right: 7%;
+
+
+}
+.img{
+	padding-left: 28px;
+}
+
+
+/*https://c4.wallpaperflare.com/wallpaper/11/624/62/simple-desk-clocks-books-wallpaper-preview.jpg*/
