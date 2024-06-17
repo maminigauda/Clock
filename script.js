@@ -7,7 +7,7 @@ function displayTime() {
 
 
 	let tm = document.getElementById("tm");
-	tm.innerHTML = (hr + ":" + mn + ":" + sc + ":" +ms);
+	tm.innerHTML = (hr + "       :       " + mn + "       :       " + sc + "       :       " +ms);
 
 }
 setInterval(displayTime,1000);
